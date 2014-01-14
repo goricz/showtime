@@ -5,19 +5,15 @@ maintainer: Jirka Dutka <jirka@dutka.net>
 # ./ext/miner/miner.c
 #
 id: Do you like Showtime? You can donate money to the project by mining Litecoins on your PS3
-# Missing translation
 msg: Líbí se vám Showtime? Můžete přispět na vývoj těžbou Litecoinů na vaší PS3
 
 id: Donate money to the Showtime project by mining litecoints
-# Missing translation
 msg: Přispějte na vývoj Showtime těžbou Litecoinů
 
 id: Donations
-# Missing translation
 msg: Dary
 
 id: Show me more
-# Missing translation
 msg: Chci vědět více
 
 #
@@ -36,15 +32,12 @@ msg: Odtranit z oblíbených
 # ./glwskins/default/cmdmenu/cmdmenu_common.view
 #
 id: Activate sleep timer
-# Missing translation
 msg: Aktivovat časovač vypnutí
 
 id: Disable sleep timer
-# Missing translation
 msg: Zakázat časovač vypnutí
 
 id: Exit Showtime
-# Missing translation
 msg: Ukončit Showtime
 
 id: Go to Home screen
@@ -60,26 +53,21 @@ id: Playqueue
 msg: Fronta přehrávání 
 
 id: Power off
-# Missing translation
 msg: Vypnout
 
 id: Reload current page
 msg: Obnovit stránku
 
 id: Suspend
-# Missing translation
 msg: Uspat
 
 id: System
-# Missing translation
 msg: Systém
 
 id: Time until sleep
-# Missing translation
 msg: Čas do uspání
 
 id: min
-# Missing translation
 msg: min
 
 #
@@ -104,10 +92,10 @@ id: Delete
 msg: Smazat
 
 id: Mark as seen
-msg: Označit jako přehrané
+msg: Označit jako zhlédnuté
 
 id: Mark as unseen
-msg: Označit jako nepřehrané
+msg: Označit jako nezhlédnuté
 
 id: Play from beginning
 msg: Hrát od začátku
@@ -137,7 +125,6 @@ id: Audio tracks
 msg: Zvukové stopy
 
 id: Chapters
-# Missing translation
 msg: Kapitoly
 
 id: Seek by time
@@ -177,7 +164,6 @@ id: Album
 msg: Album
 
 id: Artist
-# Missing translation
 msg: Interpret
 
 id: Custom
@@ -193,7 +179,6 @@ id: Slideshow
 msg: Prezentace
 
 id: Tvchannels
-# Missing translation
 msg: TV kanály
 
 id: View
@@ -209,21 +194,18 @@ msg: Hledám zdroje v lokální síti
 # ./glwskins/default/pages/home.view
 #
 id: Tiled
-# Missing translation
-msg: 
+msg: Dlaždice
 
 #
 # ./glwskins/default/pages/home_clist.view
 #
 id: Apps
-# Missing translation
 msg: Aplikace
 
 id: Dismiss
 msg: Zamítnout
 
 id: Search / Open URL
-# Missing translation
 msg: Najít / Otevřít URL
 
 #
@@ -294,15 +276,12 @@ msg: Ano
 # ./glwskins/default/pages/listitems/font.view
 #
 id: Condensed
-# Missing translation
 msg: Zhuštěné
 
 id: Main
-# Missing translation
 msg: Hlavní
 
 id: Subs
-# Missing translation
 msg: Titulky
 
 #
@@ -333,7 +312,6 @@ msg: Skladba %d / %d
 # ./glwskins/default/pages/slideshow.view
 #
 id: Paused
-# Missing translation
 msg: Pozastaveno
 
 #
@@ -355,8 +333,7 @@ id: Checking for updates...
 msg: Kontroluji aktualizace:
 
 id: Checking installed version of %s
-# Missing translation
-msg: 
+msg: Kontroluji instalovanou verzi %s
 
 id: Current version:
 msg: Současná verze:
@@ -365,12 +342,10 @@ id: Download and install...
 msg: Stáhnout a nainstalovat...
 
 id: Downloading %s
-# Missing translation
-msg: 
+msg: Stahuji %s
 
 id: Installing %s
-# Missing translation
-msg: 
+msg: Instaluji %s
 
 id: New version %s is available for download
 msg: Nová verze %s je ke stažení
@@ -379,7 +354,6 @@ id: No upgrade available
 msg: Upgrade není k dispozici
 
 id: Patching %s
-# Missing translation
 msg: Záplatuji %s
 
 id: Restarting Showtime in %d seconds...
@@ -401,8 +375,7 @@ id: Unable to query for new version
 msg: Nepodařilo se zjistit novou verzi
 
 id: Verifying %s
-# Missing translation
-msg: 
+msg: Ověřuji %s
 
 #
 # ./glwskins/default/pages/video.view
@@ -417,7 +390,6 @@ msg: Stav přehrávání
 # ./glwskins/default/pages/wideinfo/video.view
 #
 id: Seen:
-# Missing translation
 msg: Zhlédnuto:
 
 #
@@ -462,8 +434,7 @@ msg: Žádné médium
 #
 # ./glwskins/default/sysinfo.view
 #
-id: CPU Temp
-# Missing translation
+id: CPU Tempn
 msg: Teplota CPU
 
 id: GPU Temp
@@ -476,7 +447,6 @@ id: System Free
 msg: Systém nevyužito
 
 id: System Total
-# Missing translation
 msg: Systém celkem
 
 #
@@ -492,7 +462,6 @@ msg: Hlasitost: %d dB
 # ./resources/spuminer/settings.view
 #
 id: Apart from enabling this option you do not need to do anything else to make your donations for the project.
-# Missing translation
 msg: Chcete-li podpořit tento projekt, stačí jen povolit tuto volbu 
 
 id: Enable mining
@@ -520,7 +489,6 @@ id: Language (ISO 639-1 code)
 msg: Jazyk (ISO 639-1 code)
 
 id: Use original title
-# Missing translation
 msg: Použít originální název
 
 #
@@ -533,12 +501,10 @@ msg: Systém má málo paměti (%d kb RAM volných)
 # ./src/arch/rpi/rpi_cec.c
 #
 id: Configure how Showtime communicates with your TV
-# Missing translation
-msg: 
+msg: Nastavení komunikace Showtime s vaší TV
 
 id: Consumer Electronics Control
-# Missing translation
-msg: 
+msg: CEC ovládání
 
 #
 # ./src/backend/dvd/cdda.c
@@ -589,8 +555,7 @@ id: Collaborative
 msg: Spolupráce
 
 id: Compilations
-# Missing translation
-msg: 
+msg: Kompilace
 
 id: Forget me
 msg: Nepamatovat si mě 
@@ -701,8 +666,7 @@ id: Filename
 msg: Název souboru
 
 id: Indexed mode
-# Missing translation
-msg: 
+msg: Režim indexu
 
 id: Off
 msg: Vyp
@@ -756,7 +720,6 @@ id: Default character set
 msg: Výchozí sada znaků
 
 id: Ignore 'The' at beginning of words when sorting
-# Missing translation
 msg: Ignorovat úvodní 'The' při řazení
 
 id: Language
@@ -838,15 +801,13 @@ id: Subtitle delay
 msg: Zpoždění titulků
 
 id: Subtitle horizontal displacement
-# Missing translation
-msg: 
+msg: Vodorovný posun titulků
 
 id: Subtitle scaling
 msg: Velikost titulků
 
 id: Subtitle vertical displacement
-# Missing translation
-msg: 
+msg: Svislý posun titulků
 
 id: Video zoom
 msg: Video zoom
@@ -855,7 +816,6 @@ msg: Video zoom
 # ./src/metadata/browsemdb.c
 #
 id: Indexing
-# Missing translation
 msg: Indexuji
 
 #
@@ -883,7 +843,6 @@ id: Custom search query
 msg: Uživatelské hledání
 
 id: Custom title
-# Missing translation
 msg: Vlastní název
 
 id: Embedded in file
@@ -926,14 +885,12 @@ id: Providers for Music
 msg: Poskytovatelé pro hudbu
 
 id: Providers for Video
-# Missing translation
-msg: 
+msg: Poskytovatelé videa
 
 id: Refresh metadata
 msg: Obnoit metadata
 
 id: Title, Season, Episode
-# Missing translation
 msg: Název, Řada, Epizoda
 
 id: Track %d
@@ -964,15 +921,13 @@ id: Clear all metadata
 msg: Vymazat všechna metadata
 
 id: Clearing all metadata means losing <b>all</b> information about:\n\nIf a track/movie has been seen\nNumber of times a track/movie has been played\nPlayback resume position\n\nIt will also erase the metadata cached from external sources such as themoviedb.org, etc\n\nAre you sure you proceed?
-# Missing translation
-msg: 
+msg: Vymazání všech metadat znamená ztrátu <b>všech</b> informací o:\n\nZhlédnutí stopy/videa\nPočet přehrání stopy/videa\nObnovení pozice přehrávání\n\nTaké dojde k vymazání metadat získaných z externích zdrojů jako je themoviedb.org, atd.\n\nOpravdu chcte pokračovat?
 
 #
 # ./src/navigator.c
 #
 id: Add and remove items on homepage
-# Missing translation
-msg: 
+msg: Přidat / odebrat položky na úvodní straně
 
 id: Added new bookmark: %s
 msg: Přidána záložka: %s
@@ -990,8 +945,7 @@ id: Photos
 msg: Snimky
 
 id: Published in Virtual File System
-# Missing translation
-msg: 
+msg: Publikováno ve Virtuálním systému souborů
 
 id: Removed bookmark: %s
 msg: Odstraněna záložka: %s
@@ -1012,12 +966,10 @@ msg: URL
 # ./src/networking/connman.c
 #
 id: Enable Wi-Fi
-# Missing translation
-msg: 
+msg: Povolit Wi-Fi
 
 id: Network connections
-# Missing translation
-msg: 
+msg: Síťová připojení
 
 #
 # ./src/networking/ftp_server.c
@@ -1026,12 +978,10 @@ id: Enable FTP server
 msg: Povolit FTP server
 
 id: FTP server
-# Missing translation
-msg: 
+msg: FTP server
 
 id: Server TCP port
-# Missing translation
-msg: 
+msg: Číslo TCP portu
 
 #
 # ./src/plugins.c
@@ -1049,27 +999,22 @@ id: Background
 msg: Pozadí
 
 id: Beta testing passwords
-# Missing translation
-msg: 
+msg: Hesla pro beta-testing
 
 id: Browse available apps
-# Missing translation
-msg: 
+msg: Procházet dostupné aplikace
 
 id: Browsing
-# Missing translation
-msg: 
+msg: Prohlížení
 
 id: Cloud services
-# Missing translation
-msg: 
+msg: Cloudové služby
 
 id: Corrupt plugin bundle
 msg: Svazek poškozených pluginů
 
 id: Default
-# Missing translation
-msg: 
+msg: Výchozí
 
 id: Disk write error
 msg: Chyba při zápisu na disk
@@ -1081,35 +1026,28 @@ id: File open error
 msg: Chyba při otvírání souboru
 
 id: Home page
-# Missing translation
-msg: 
+msg: Úvodní strana
 
 id: Installed apps
-# Missing translation
-msg: 
+msg: Instalované aplikace
 
 id: Installed version higher than available
-# Missing translation
-msg: 
+msg: Instalovaná verze je vyšší než dostupná
 
 id: Installing
 msg: Instaluji
 
 id: List of albums
-# Missing translation
-msg: 
+msg: Seznam alb
 
 id: Loading screen
-# Missing translation
-msg: 
+msg: Úvodní obrazovka
 
 id: Movies
-# Missing translation
-msg: 
+msg: Filmy
 
 id: Music streaming
-# Missing translation
-msg: 
+msg: Streamování hudby
 
 id: Not installable
 msg: Nelze nainstalovat
@@ -1121,27 +1059,22 @@ id: Not upgradable
 msg: Nelze aktualizovat
 
 id: Online TV
-# Missing translation
-msg: 
+msg: Online TV
 
 id: Plugin %s %s has been uninstalled because it may cause problems.\nYou may try reinstalling a different version manually.
-# Missing translation
-msg: 
+msg: Plugin %s %s byl odinstalován, neboť může být zdrojem problémů.\nMůžete zkusit instalovat ručně jinou verzi.
 
 id: Plugins
 msg: Pluginy
 
 id: Preferred views from plugins
-# Missing translation
-msg: 
+msg: Preferred views from plugins
 
 id: Screen saver
-# Missing translation
-msg: 
+msg: Spořič obrazovky
 
 id: TV channels
-# Missing translation
-msg: 
+msg: TV kanály
 
 id: Unable to load plugin.json: %s
 msg: Nelze načíst plugin.json: %s
@@ -1150,8 +1083,7 @@ id: Unable to load plugin.json: Malformed JSON
 msg: Nelze načíst plugin.json: nesprávné JSON
 
 id: Uncategorized
-# Missing translation
-msg: 
+msg: Nezařazené
 
 id: Up to date
 msg: Aktuální
@@ -1163,12 +1095,10 @@ id: Upgraded plugin %s to version %s
 msg: Plugin %s upgradován na verzi %s
 
 id: User interface extensions
-# Missing translation
-msg: 
+msg: Doplňky rozhraní
 
 id: Video streaming
-# Missing translation
-msg: 
+msg: Streamování videa
 
 #
 # ./src/runcontrol.c
@@ -1177,8 +1107,7 @@ id: Automatic standby
 msg: Automatické vypnutí
 
 id: Enable SSH server
-# Missing translation
-msg: 
+msg: Povolit SSH server
 
 id: Logout
 msg: Odhlásit
@@ -1187,15 +1116,13 @@ id: Open shell
 msg: Příkazová řádka
 
 id: Power off system
-msg: Vyonout systém
+msg: Vypnout systém
 
 id: SSH server
-# Missing translation
-msg: 
+msg: SSH server
 
 id: Standby
-# Missing translation
-msg: 
+msg: Uspat
 
 id: Starting and stopping Showtime
 msg: Start a ukončení Showtime
@@ -1204,7 +1131,7 @@ msg: Start a ukončení Showtime
 # ./src/sd/sd.c
 #
 id: Enabled on home screen
-msg: Omogočen v glavnem meniju
+msg: Povoleno na úvodní obrazovce
 
 id: Name
 msg: Název
@@ -1228,8 +1155,7 @@ id: Discovered media sources
 msg: Vyhledat zdroje videa a zvuku
 
 id: Fonts and user interface styling
-# Missing translation
-msg: 
+msg: Písma a vzhled prostředí
 
 id: General
 msg: Obecné
@@ -1238,23 +1164,19 @@ id: Global settings
 msg: Hlavní nastavení
 
 id: Look and feel
-# Missing translation
-msg: 
+msg: Vzhled
 
 id: Network services, etc
-# Missing translation
-msg: 
+msg: Síťové služby, atd.
 
 id: Network settings
-# Missing translation
-msg: 
+msg: Nastavení sítě
 
 id: Settings useful for developers
 msg: Nastavení pro vývojáře
 
 id: System name
-# Missing translation
-msg: 
+msg: Název systému
 
 id: System related settings
 msg: Systémová nastavení
@@ -1263,26 +1185,22 @@ msg: Systémová nastavení
 # ./src/subtitles/subtitles.c
 #
 id: Any subtitle in central folder
-# Missing translation
-msg: 
+msg: Libovolné titulky z hlavní složky
 
 id: Any subtitle in same folder as video
-# Missing translation
-msg: 
+msg: Libovolné titulky ze stejné složky jako video
 
 id: Auto
 msg: Auto
 
 id: Automatically select from this source
-# Missing translation
-msg: 
+msg: Automaticky vybrat z tohoto zdroje
 
 id: Center
 msg: Střed
 
 id: Central subtitle folder
-# Missing translation
-msg: 
+msg: Hlavní složka titulků
 
 id: Color
 msg: Barva
@@ -1309,12 +1227,10 @@ id: Outline size
 msg: Velikost obrysu
 
 id: Path to central folder
-# Missing translation
-msg: 
+msg: Cesta k hlavní složce
 
 id: Providers for Subtitles
-# Missing translation
-msg: 
+msg: Poskytovatelé titulků
 
 id: Right
 msg: Pravý
@@ -1335,91 +1251,73 @@ id: Subtitle size and positioning
 msg: Velikost a pozice titulků
 
 id: Subtitles embedded in video file
-# Missing translation
-msg: 
+msg: Titulky obsažené v souboru videa
 
 id: Subtitles with matching filename in central folder
-# Missing translation
-msg: 
+msg: Titulky s odpovídajícím názvem v hlavní složce
 
 id: Subtitles with matching filename in same folder as video
-# Missing translation
-msg: 
+msg: Titulky s odpovídajícím názvem ve stejné složce jako video
 
 #
 # ./src/text/fontstash.c
 #
 id: Defaults
-# Missing translation
-msg: 
+msg: Výchozí
 
 id: Fonts
-# Missing translation
-msg: 
+msg: Písma
 
 id: Installed fonts
-# Missing translation
-msg: 
+msg: Instalovaná písma
 
 id: Narrow text
-# Missing translation
-msg: 
+msg: Zúžený text
 
 id: Reset main font to default
-# Missing translation
-msg: 
+msg: Nastavit výchozí základní písmo
 
 id: Reset narrow font to default
-# Missing translation
-msg: 
+msg: Nastavit výchozí zúžené písmo 
 
 id: Reset subtitle font to default
-# Missing translation
-msg: 
+msg: Nastavit výchozí písmo titulků
 
 id: Unable to install font: %s
-# Missing translation
-msg: 
+msg: Nelze nainstalovat písmo: %s
 
 id: Use font %s for
-# Missing translation
-msg: 
+msg: Použít písmo %s pro
 
 id: User interface
-# Missing translation
-msg: 
+msg: Uživatelské prostředí
 
 #
 # ./src/ui/glw/glw_ps3.c
 #
 id: Seek using L2 and R2 button
-# Missing translation
-msg: 
+msg: Hledat pomocí tlačítek L2 a R2
 
 id: Yes with Select button
-# Missing translation
-msg: 
+msg: Tlačítko Select pro Ano
 
 #
 # ./src/ui/glw/glw_settings.c
 #
 id: Font and icon size
-# Missing translation
-msg: 
+msg: Velikost textu a ikon
 
 id: Horizontal underscan
-msg: Horizontální podscan
+msg: Horizontální podsken
 
 id: Screensaver delay
 msg: Zpoždění spořiče
 
 id: Vertical underscan
-# Missing translation
-msg: 
+msg: Vertikální podsken
 
 id: Wrap when reaching beginning/end of lists
-# Missing translation
-msg: 
+msg: Přesunout při dosažení začátku/konce seznamů
 
 #
 # ./src/ui/glw/glw_x11.c
