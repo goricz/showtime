@@ -6,19 +6,19 @@ maintainer: Jirka Dutka <jirka@dutka.net>
 #
 id: Do you like Showtime? You can donate money to the project by mining Litecoins on your PS3
 # Missing translation
-msg: 
+msg: Líbí se vám Showtime? Můžete přispět na vývoj těžbou Litecoinů na vaší PS3
 
 id: Donate money to the Showtime project by mining litecoints
 # Missing translation
-msg: 
+msg: Přispějte na vývoj Showtime těžbou Litecoinů
 
 id: Donations
 # Missing translation
-msg: 
+msg: Dary
 
 id: Show me more
 # Missing translation
-msg: 
+msg: Chci vědět více
 
 #
 # ./glwskins/default/cmdmenu.view
@@ -37,15 +37,15 @@ msg: Odtranit z oblíbených
 #
 id: Activate sleep timer
 # Missing translation
-msg: 
+msg: Aktivovat časovač vypnutí
 
 id: Disable sleep timer
 # Missing translation
-msg: 
+msg: Zakázat časovač vypnutí
 
 id: Exit Showtime
 # Missing translation
-msg: 
+msg: Ukončit Showtime
 
 id: Go to Home screen
 msg: Jít na úvodní stránku
@@ -61,26 +61,26 @@ msg: Fronta přehrávání
 
 id: Power off
 # Missing translation
-msg: 
+msg: Vypnout
 
 id: Reload current page
 msg: Obnovit stránku
 
 id: Suspend
 # Missing translation
-msg: 
+msg: Uspat
 
 id: System
 # Missing translation
-msg: 
+msg: Systém
 
 id: Time until sleep
 # Missing translation
-msg: 
+msg: Čas do uspání
 
 id: min
 # Missing translation
-msg: 
+msg: min
 
 #
 # ./glwskins/default/cmdmenu/cmdmenu_dir.view
@@ -138,7 +138,7 @@ msg: Zvukové stopy
 
 id: Chapters
 # Missing translation
-msg: 
+msg: Kapitoly
 
 id: Seek by time
 msg: Hledat podle času
@@ -178,7 +178,7 @@ msg: Album
 
 id: Artist
 # Missing translation
-msg: 
+msg: Interpret
 
 id: Custom
 msg: Uživatelské
@@ -194,7 +194,7 @@ msg: Prezentace
 
 id: Tvchannels
 # Missing translation
-msg: 
+msg: TV kanály
 
 id: View
 msg: Pohled
@@ -217,14 +217,14 @@ msg:
 #
 id: Apps
 # Missing translation
-msg: 
+msg: Aplikace
 
 id: Dismiss
 msg: Zamítnout
 
 id: Search / Open URL
 # Missing translation
-msg: 
+msg: Najít / Otevřít URL
 
 #
 # ./glwskins/default/pages/iteminfo/image.view
@@ -295,15 +295,15 @@ msg: Ano
 #
 id: Condensed
 # Missing translation
-msg: 
+msg: Zhuštěné
 
 id: Main
 # Missing translation
-msg: 
+msg: Hlavní
 
 id: Subs
 # Missing translation
-msg: 
+msg: Titulky
 
 #
 # ./glwskins/default/pages/listitems/plugin.view
@@ -334,7 +334,7 @@ msg: Skladba %d / %d
 #
 id: Paused
 # Missing translation
-msg: 
+msg: Pozastaveno
 
 #
 # ./glwskins/default/pages/upgrade.view
@@ -380,7 +380,7 @@ msg: Upgrade není k dispozici
 
 id: Patching %s
 # Missing translation
-msg: 
+msg: Záplatuji %s
 
 id: Restarting Showtime in %d seconds...
 msg: Showtsime bude restartován za %d sekund...
@@ -418,16 +418,16 @@ msg: Stav přehrávání
 #
 id: Seen:
 # Missing translation
-msg: 
+msg: Zhlédnuto:
 
 #
 # ./glwskins/default/playdecks/dvd.view
 #
 id: Chapter: %d
-msg: Kapitola:
+msg: Kapitola: %d
 
 id: Title: %d
-msg: Název:
+msg: Název: %d
 
 #
 # ./glwskins/default/popups/auth.view
@@ -464,23 +464,20 @@ msg: Žádné médium
 #
 id: CPU Temp
 # Missing translation
-msg: 
+msg: Teplota CPU
 
 id: GPU Temp
-# Missing translation
-msg: 
+msg: Teplota GPU
 
 id: Memory usage
-# Missing translation
-msg: 
+msg: Využití paměti
 
 id: System Free
-# Missing translation
-msg: 
+msg: Systém nevyužito
 
 id: System Total
 # Missing translation
-msg: 
+msg: Systém celkem
 
 #
 # ./glwskins/default/universe.view
@@ -496,42 +493,35 @@ msg: Hlasitost: %d dB
 #
 id: Apart from enabling this option you do not need to do anything else to make your donations for the project.
 # Missing translation
-msg: 
+msg: Chcete-li podpořit tento projekt, stačí jen povolit tuto volbu 
 
 id: Enable mining
-# Missing translation
-msg: 
+msg: Povolit těžbu
 
 id: For more information about Litecoin, please visit http://litecoin.org
-# Missing translation
-msg: 
+msg: Pro více informací o Litecoinu navštivte http://litecoin.org
 
 id: If you like Showtime you can donate money to the project by letting your Playstation 3 mine Litecoins while Showtime is running.
-# Missing translation
-msg: 
+msg: Pokud se vám Showtime líbí, můžete přispět na vývoj tak že necháte svou Playstation 3 těžit Litecoin po dobu běhu programu
 
 id: Mining will not interfere with video playback performance as it only uses the leftover capacity of the SPU processors.
-# Missing translation
-msg: 
+msg: Těžba nebude mít vliv na kvalitu přehrávání, využívá jen nadbytečnou kapacitu SPU procesorů
 
 id: Please consider enabling this option. / %s
-# Missing translation
-msg: 
+msg: Prosím, zvažte povolení této volby. / %s
 
 id: Thanks for your support!
-# Missing translation
-msg: 
+msg: Díky za podporu!
 
 #
 # ./src/api/tmdb.c
 #
 id: Language (ISO 639-1 code)
-# Missing translation
-msg: 
+msg: Jazyk (ISO 639-1 code)
 
 id: Use original title
 # Missing translation
-msg: 
+msg: Použít originální název
 
 #
 # ./src/arch/ps3/ps3_main.c
@@ -590,8 +580,7 @@ msg: Výsledky hledání pro: %s
 # ./src/backend/spotify/spotify.c
 #
 id: Albums
-# Missing translation
-msg: 
+msg: Alba
 
 id: Automatic login when Showtime starts
 msg: Automatické přihlášení při startu programu
@@ -637,8 +626,7 @@ id: Search result
 msg: Výsledky hledání
 
 id: Singles
-# Missing translation
-msg: 
+msg: Singly
 
 id: Spotify friends
 msg: Spotify přátele
@@ -698,20 +686,16 @@ msg: Chyba přihlášení
 # ./src/fileaccess/fa_scanner.c
 #
 id: Artists
-# Missing translation
-msg: 
+msg: Interpreti
 
 id: Date (newest first)
-# Missing translation
-msg: 
+msg: Datum (od nejnovějšího)
 
 id: Date (oldest first)
-# Missing translation
-msg: 
+msg: Datum (od nejstaršího)
 
 id: Deleted %s
-# Missing translation
-msg: 
+msg: Smazáno (%s)
 
 id: Filename
 msg: Název souboru
@@ -733,8 +717,7 @@ id: Sort on
 msg: Řadit podle
 
 id: Unable to delete %s\n%s
-# Missing translation
-msg: 
+msg: Nelze smazat %s\n%s
 
 #
 # ./src/fileaccess/fa_spotlight.c
@@ -746,16 +729,13 @@ msg: Hledat pomocí Spotlight
 # ./src/fileaccess/fileaccess.c
 #
 id: Are you sure you want to delete:
-# Missing translation
-msg: 
+msg: Opravdu chcete smazat:
 
 id: Enable file deletion from item menu
-# Missing translation
-msg: 
+msg: Povolit mazání souborů z menu
 
 id: File access
-# Missing translation
-msg: 
+msg: Přístup k souboru
 
 id: %d archive parts
 msg[0]: 
@@ -773,12 +753,11 @@ msg[1]:
 # ./src/i18n.c
 #
 id: Default character set
-# Missing translation
-msg: 
+msg: Výchozí sada znaků
 
 id: Ignore 'The' at beginning of words when sorting
 # Missing translation
-msg: 
+msg: Ignorovat úvodní 'The' při řazení
 
 id: Language
 msg: Jazyk
@@ -844,12 +823,10 @@ id: Audio delay
 msg: Zpoždění zvuku
 
 id: Audio volume
-# Missing translation
-msg: 
+msg: Hlasitost zvuku
 
 id: Go to standby after video ends
-# Missing translation
-msg: 
+msg: Po skončení videa přejít do režimu spánku
 
 id: Stretch video to fullscreen
 msg: Roztáhnout video na celou obrazovku
@@ -879,7 +856,7 @@ msg: Video zoom
 #
 id: Indexing
 # Missing translation
-msg: 
+msg: Indexuji
 
 #
 # ./src/metadata/decoration.c
@@ -888,20 +865,16 @@ id: Automatic
 msg: Automaticky
 
 id: Manual
-# Missing translation
-msg: 
+msg: Ručně
 
 id: Mark all as seen
-# Missing translation
-msg: 
+msg: Označit vše jako zhlédnuté
 
 id: Mark all as unseen
-# Missing translation
-msg: 
+msg: Označit vše jako nezhlédnuté
 
 id: Metadata mode
-# Missing translation
-msg: 
+msg: Režim metadat
 
 #
 # ./src/metadata/metadata.c
@@ -911,7 +884,7 @@ msg: Uživatelské hledání
 
 id: Custom title
 # Missing translation
-msg: 
+msg: Vlastní název
 
 id: Embedded in file
 msg: Vloženo v souboru
@@ -941,8 +914,7 @@ id: Movie
 msg: Film
 
 id: Movie title
-# Missing translation
-msg: 
+msg: Název filmu
 
 id: No data found
 msg: Data nenalezena
@@ -962,7 +934,7 @@ msg: Obnoit metadata
 
 id: Title, Season, Episode
 # Missing translation
-msg: 
+msg: Název, Řada, Epizoda
 
 id: Track %d
 msg: Track %d
@@ -977,8 +949,7 @@ id: filename
 msg: název souboru
 
 id: filename as TV episode
-# Missing translation
-msg: 
+msg: název souboru jako TV epizoda
 
 id: folder name
 msg: název adresáře
@@ -987,12 +958,10 @@ msg: název adresáře
 # ./src/metadata/metadb.c
 #
 id: %d items deleted
-# Missing translation
-msg: 
+msg: %d položek smazáno
 
 id: Clear all metadata
-# Missing translation
-msg: 
+msg: Vymazat všechna metadata
 
 id: Clearing all metadata means losing <b>all</b> information about:\n\nIf a track/movie has been seen\nNumber of times a track/movie has been played\nPlayback resume position\n\nIt will also erase the metadata cached from external sources such as themoviedb.org, etc\n\nAre you sure you proceed?
 # Missing translation
@@ -1054,8 +1023,7 @@ msg:
 # ./src/networking/ftp_server.c
 #
 id: Enable FTP server
-# Missing translation
-msg: 
+msg: Povolit FTP server
 
 id: FTP server
 # Missing translation
@@ -1075,12 +1043,10 @@ id: Automatically upgrade plugins
 msg: Automaticky upgradovat pluginy
 
 id: Available apps
-# Missing translation
-msg: 
+msg: Dostupné aplikace
 
 id: Background
-# Missing translation
-msg: 
+msg: Pozadí
 
 id: Beta testing passwords
 # Missing translation
